@@ -1,0 +1,16 @@
+﻿key,external_user_id,loyalty_user_id,user_email,amount,type,comment,created_at,updated_at,transactions_id,transactions_uuid,organization_name,instance,expired_at
+1,'+18015550101,483920,jane.doe@example.com,500,BulkDepositTransaction,Initial bonus,9/1/25 9:15,9/1/25 9:15,739201,4c6d6a81-e76c-4800-99a1-b1db00c867e5,byu,,
+2,'+18015550101,483920,jane.doe@example.com,-120,FoodPurchaseTransaction,Lunch purchase,9/2/25 12:42,9/2/25 12:42,184502,b2c05983-6f3e-4a70-bd4f-1c6b620bfc82,byu,,
+3,'+18015550102,592104,john.smith@example.com,250,WalkupPurchaseTransaction,,9/2/25 18:05,9/2/25 18:05,390115,8a2c9d6e-1e5c-4a77-9b8f-1e2b5a3a9c41,byu,,
+4,'+18015550103,771304,emily.ross@example.com,1000,BulkDepositTransaction,Semester allocation,9/1/25 8:00,9/1/25 8:00,662901,1c4f09e7-72a1-4d4e-b0a6-7b9b2a71d52f,byu,,12/31/25 23:59
+5,'+18015550103,771304,emily.ross@example.com,-200,SentTransferTransaction,Transfer to friend,9/5/25 14:18,9/5/25 14:18,550812,6d93c6f3-0b78-4e62-bc9e-6c95f1f9a0ef,byu,,
+6,'+18015550104,604991,michael.lee@example.com,75,AcceptedTransferTransaction,Received from Sarah,9/4/25 10:22,9/4/25 10:22,918304,0d2b4d92-3f1e-44b7-bbe6-7cb55bfae11d,byu,,
+7,'+18015550105,228471,sarah.kim@example.com,-75,SentTransferTransaction,Sent to Michael,9/4/25 10:21,9/4/25 10:21,918305,3a91c4b0-84e3-4c9e-9b3f-5e0a2cbfd3c4,byu,,
+8,'+18015550106,915330,daniel.wu@example.com,300,BulkDepositTransaction,,9/3/25 9:00,9/3/25 9:00,443210,9e3b92d2-1d5a-4e8f-9c5b-0a7d2f1b0c9a,byu,,11/30/25 23:59
+9,'+18015550106,915330,daniel.wu@example.com,-45,FoodPurchaseTransaction,Coffee and snack,9/6/25 8:14,9/6/25 8:14,443311,fbc2392c-6bb2-4f25-8c2c-92f40b1f52de,byu,,
+10,'+18015550107,340582,lauren.brown@example.com,150,WalkupPurchaseTransaction,Bookstore credit,9/2/25 16:47,9/2/25 16:47,770194,2a8d1a4e-88b1-4d6c-b2f5-91cfc1df7f91,byu,,
+11,'+18015550107,340582,lauren.brown@example.com,-60,FoodPurchaseTransaction,Dinner,9/3/25 19:52,9/3/25 19:52,770255,7f5c9e64-5d8e-4b99-b3b7-63c21bdf12f2,byu,,
+12,'+18015550108,889204,kevin.nguyen@example.com,800,BulkDepositTransaction,Event staff credit,9/1/25 11:30,9/1/25 11:30,600772,4f1d6b70-0dc3-4b2c-8f68-bb19d56a4b17,byu,,10/31/25 23:59
+13,'+18015550108,889204,kevin.nguyen@example.com,-300,ExpiredVirtualCurrencyTransaction,,10/31/25 23:59,10/31/25 23:59,600899,ad71d4a1-2a68-4c9c-b4e3-0c98a13c64a9,byu,,
+14,'+18015550109,502118,olivia.martin@example.com,90,AcceptedTransferTransaction,,9/7/25 13:05,9/7/25 13:05,312450,58c7e3e0-0f7c-4c91-8c12-6f0d45bda771,byu,,
+15,'+18015550110,764993,ethan.hall@example.com,-25,FoodPurchaseTransaction,Snack,9/7/25 15:44,9/7/25 15:44,991204,bc27a3fa-5c3f-4db7-9a3f-2a9b5e1f76cb,byu,,

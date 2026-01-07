@@ -1,0 +1,21 @@
+﻿VC_key,VC_Amount,Phone_Number,Date_To_Post,Date_Received,Issuer_Name,Issuer_Net_ID,Issuer_Email,Department_Number,Sync_date,Department,Descripion,Customer_Name,Posted,Expiration_date
+1,500,18015550101,9/1/25 8:00,9/1/25 7:45,Ryan Brown,ryanb24,ryanb24@byu.edu,1200,9/1/25 8:05,Campus Dining,Welcome bonus,Jane Doe,TRUE,12/31/25 23:59
+2,250,18015550102,9/2/25 9:30,9/2/25 9:10,Sarah Kim,sarahk8,sarahk8@byu.edu,1301,9/2/25 9:35,Bookstore,Orientation credit,John Smith,TRUE,
+3,100,18015550103,9/2/25 14:00,9/2/25 13:50,Michael Lee,michaell3,michaell3@byu.edu,1402,9/2/25 14:05,Events,Event giveaway,Emily Ross,TRUE,
+4,1000,18015550104,9/1/25 8:00,9/1/25 7:30,Olivia Martin,oliviam9,oliviam9@byu.edu,1500,9/1/25 8:10,Student Services,Semester allocation,Michael Lee,TRUE,1/15/26 23:59
+5,75,18015550105,9/3/25 11:15,9/3/25 11:00,Ethan Hall,ethanh7,ethanh7@byu.edu,1200,9/3/25 11:20,Campus Dining,Survey incentive,Sarah Kim,TRUE,
+6,300,18015550106,9/3/25 9:00,9/3/25 8:45,Daniel Wu,danielw5,danielw5@byu.edu,1603,9/3/25 9:05,Recreation,Club funding,Daniel Wu,TRUE,11/30/25 23:59
+7,50,18015550107,9/4/25 10:30,9/4/25 10:15,Lauren Brown,laurenb6,laurenb6@byu.edu,1402,9/4/25 10:35,Events,Attendance reward,Lauren Brown,TRUE,
+8,200,18015550108,9/4/25 13:45,9/4/25 13:20,Kevin Nguyen,kevinn4,kevinn4@byu.edu,1701,9/4/25 13:50,IT Services,Training incentive,Kevin Nguyen,TRUE,
+9,150,18015550109,9/5/25 9:00,9/5/25 8:40,Emma Johnson,emmaj2,emmaj2@byu.edu,1301,9/5/25 9:05,Bookstore,Faculty credit,Olivia Martin,TRUE,
+10,400,18015550110,9/5/25 15:00,9/5/25 14:30,Noah Peterson,noahp1,noahp1@byu.edu,1200,9/5/25 15:05,Campus Dining,Staff appreciation,Ethan Hall,TRUE,12/15/25 23:59
+11,60,18015550111,9/6/25 11:00,9/6/25 10:45,Ava Lopez,aval8,aval8@byu.edu,1402,9/6/25 11:05,Events,Volunteer thanks,Ava Lopez,TRUE,
+12,90,18015550112,9/6/25 14:30,9/6/25 14:10,Liam Carter,liamc0,liamc0@byu.edu,1603,9/6/25 14:35,Recreation,Workshop bonus,Liam Carter,TRUE,
+13,500,18015550113,9/1/25 8:00,9/1/25 7:40,Mia Turner,miat9,miat9@byu.edu,1500,9/1/25 8:10,Student Services,Grant allocation,Mia Turner,TRUE,12/31/25 23:59
+14,120,18015550114,9/7/25 10:00,9/7/25 9:45,James Wilson,jamesw3,jamesw3@byu.edu,1701,9/7/25 10:05,IT Services,Certification reward,James Wilson,TRUE,
+15,80,18015550115,9/7/25 13:30,9/7/25 13:10,Chloe Adams,chloea4,chloea4@byu.edu,1301,9/7/25 13:35,Bookstore,Promo credit,Chloe Adams,TRUE,
+16,250,18015550116,9/8/25 9:00,9/8/25 8:45,Ben Harris,benh6,benh6@byu.edu,1200,9/8/25 9:05,Campus Dining,Meal plan adjustment,Ben Harris,FALSE,
+17,70,18015550117,9/8/25 11:15,9/8/25 11:00,Natalie Scott,natalies2,natalies2@byu.edu,1402,9/8/25 11:20,Events,Check-in reward,Natalie Scott,TRUE,
+18,600,18015550118,9/2/25 8:00,9/2/25 7:30,Lucas Reed,lucasr5,lucasr5@byu.edu,1500,9/2/25 8:10,Student Services,Scholarship credit,Lucas Reed,TRUE,1/31/26 23:59
+19,110,18015550119,9/9/25 14:00,9/9/25 13:40,Hannah Young,hannahy7,hannahy7@byu.edu,1603,9/9/25 14:05,Recreation,Program incentive,Hannah Young,TRUE,
+20,45,18015550120,9/9/25 16:30,9/9/25 16:10,Tyler Moore,tylerm8,tylerm8@byu.edu,1200,9/9/25 16:35,Campus Dining,Feedback reward,Tyler Moore,TRUE,
